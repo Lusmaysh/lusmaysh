@@ -1,29 +1,44 @@
-## Hi there 👋, my name is Syamsul Hidayat
+<h1 align="center">Hi 👋, I'm Syamsul Hidayat (Lusmaysh)</h1>
+<p align="center">
+  A passionate student and fullstack developer from Indonesia 🇮🇩
+</p>
 
+---
 
-## 🙋‍♂️ About me
+### 💼 About Me
+- 🎓 I’m currently a student in Information Technology  
+- 💻 I enjoy building web and mobile apps using **React**, **Flutter**, and **CodeIgniter**
+- 🚀 I’ve built a few real-world projects like [Arjuna Esports Ascend](https://github.com/Lusmaysh/arjuna-esports-ascend)
+- 🌱 Currently exploring **Next.js**, **Firebase**, and **Supabase**
+- 📚 I love combining design and code to create engaging user experiences
 
+---
+
+### 🛠️ Tech Stack
 ![profile view count](https://komarev.com/ghpvc/?username=Lusmaysh)
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat-square" />
+</p>
 
-I'm from the Indonesia. I'm a huge fan of Python, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing some video games, and spending time with my Family ❤️.
+---
 
-## 🔭 I'm currently working on
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lusmaysh&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusmaysh&layout=compact&theme=tokyonight">
+</p>
 
-## 🌱 I’m currently learning
+---
 
-## 🔨 I've contributed to
+### 📫 Contact Me
+- Email: syamsulpkl11@gmail.com
+- LinkedIn: [syamsul-hidayat](https://www.linkedin.com/in/syamsul-hidayat-831014358/) 
 
-<!--
-**Lusmaysh/lusmaysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Thank you for visiting my profile!</p>
