@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syamsul Hidayat (Lusmaysh)</h1>
+
+<!-- Typing text -->
 <p align="center">
-  A passionate student and fullstack developer from Indonesia 🇮🇩
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+web+and+app+developer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -8,7 +12,6 @@
 ### 💼 About Me
 - 🎓 I’m currently a student in Information Technology  
 - 💻 I enjoy building web and mobile apps using **React**, **Flutter**, and **CodeIgniter**
-- 🚀 I’ve built a few real-world projects like [Arjuna Esports Ascend](https://github.com/Lusmaysh/arjuna-esports-ascend)
 - 🌱 Currently exploring **Next.js**, **Firebase**, and **Supabase**
 - 📚 I love combining design and code to create engaging user experiences
 
@@ -32,6 +35,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lusmaysh&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusmaysh&layout=compact&theme=tokyonight">
 </p>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
