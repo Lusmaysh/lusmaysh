@@ -12,6 +12,7 @@
 ### 💼 About Me
 - 🎓 I’m currently a student in Information Technology  
 - 💻 I enjoy building web and mobile apps using **React**, **Flutter**, and **CodeIgniter**
+- 🚀 I’ve built a few real-world projects like [Arjuna Esports Ascend](https://github.com/Lusmaysh/arjuna-esports-ascend)
 - 🌱 Currently exploring **Next.js**, **Firebase**, and **Supabase**
 - 📚 I love combining design and code to create engaging user experiences
 
@@ -36,15 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusmaysh&layout=compact&theme=tokyonight">
 </p>
 
----
-
-### ⏳ WakaTime Stats
-<!--START_SECTION:waka-->
-SHOW_COMMIT
-SHOW_DAYS_OF_WEEK
-SHOW_LANGUAGE 
-
-<!--END_SECTION:waka-->
 ---
 
 ### ✍️ Random Dev Quote

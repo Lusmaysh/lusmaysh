@@ -1,0 +1,18 @@
+{
+  "name": "lusmaysh-profile-readme",
+  "version": "1.0.0",
+  "description": "Personal Profile Readme with Automated Semantic Release",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lusmaysh/Lusmaysh.git"
+  },
+  "author": "Syamsul Hidayat <syamsulpkl11@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^22.0.0"
+  }
+}
