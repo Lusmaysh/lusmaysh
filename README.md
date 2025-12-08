@@ -38,6 +38,15 @@
 
 ---
 
+### ⏳ WakaTime Stats
+<!--START_SECTION:waka-->
+SHOW_COMMIT
+SHOW_DAYS_OF_WEEK
+SHOW_LANGUAGE 
+
+<!--END_SECTION:waka-->
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
