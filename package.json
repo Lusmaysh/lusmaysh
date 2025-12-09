@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/Lusmaysh/Lusmaysh.git"
   },
-  "author": "Syamsul Hidayat <syamsulpkl11@gmail.com>",
+  "author": "Syamsul Hidayat <arjunoimut123@gmail.com>",
   "license": "MIT",
   "scripts": {
     "release": "semantic-release"
