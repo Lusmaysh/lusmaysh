@@ -1,6 +1,6 @@
 {
   "name": "lusmaysh-profile-readme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal Profile Readme with Automated Semantic Release",
   "private": true,
   "repository": {
