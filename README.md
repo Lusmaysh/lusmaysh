@@ -45,7 +45,7 @@
 ---
 
 ### 📫 Contact Me
-- Email: syamsulpkl11@gmail.com
+- Email: samsulpkl11@gmail.com
 - LinkedIn: [syamsul-hidayat](https://www.linkedin.com/in/syamsul-hidayat-831014358/) 
 
 ---
